@@ -1,0 +1,21 @@
+{
+  "name": "schiebelno1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NodeTest.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node nodetest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HOMERUN68/schiebelno1.git"
+  },
+  "author": "mschiebel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HOMERUN68/schiebelno1/issues"
+  },
+  "homepage": "https://github.com/HOMERUN68/schiebelno1#readme"
+}
